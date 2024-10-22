@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_bottom"
+        android:title="Principal"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/cardapio_bottom"
+        android:title="Cardápio"
+        android:icon="@drawable/cardapio"
+        />
+
+    <item
+        android:id="@+id/favorito_bottom"
+        android:title="Favoritos"
+        android:icon="@drawable/favorito" />
+    <item
+        android:id="@+id/novidades__bottom"
+        android:title="Novidades"
+        android:icon="@drawable/novidade" />
+
+</menu>
